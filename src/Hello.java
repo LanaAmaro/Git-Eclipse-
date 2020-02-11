@@ -5,6 +5,7 @@ public class Hello {
 		
 		
 		System.out.println("Integrando o git com o eclipse");
+		System.out.println("Deu certo !");
 
 	}
 
